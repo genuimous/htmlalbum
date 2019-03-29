@@ -1,0 +1,18 @@
+[Directories]
+Images=C:\Documents and Settings\Rat\Мои документы\Work\portfolio\images
+Output=C:\Documents and Settings\Rat\Мои документы\Work\portfolio\HTML
+[Album]
+Title=Портфолио
+Description=Каталог фотографий
+MainPageURL=../../index.htm
+MainPageLink=На главную
+MaxImageCount=999
+[Thumbnails]
+Size=240
+Indent=10
+[Index]
+ColCount=3
+RowCount=3
+[Misc]
+ShowIndexLink=1
+CSSFileURL=../../style.css
